@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "새 프로필",
+    "Projects": [
+      {
+        "Path": "test_TCP_Server\\test_TCP_Server.vcxproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "test_TCP_Client\\test_TCP_Client.vcxproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]
