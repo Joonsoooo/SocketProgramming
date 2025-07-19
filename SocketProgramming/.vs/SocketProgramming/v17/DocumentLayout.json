@@ -3,20 +3,31 @@
   "WorkspaceRootPath": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66927E0B-D02B-4096-9CAE-EEF540B5BAE2}|test_TCP_Client\\test_TCP_Client.vcxproj|C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCP_Echo_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66927E0B-D02B-4096-9CAE-EEF540B5BAE2}|test_TCP_Client\\test_TCP_Client.vcxproj|solutionrelative:test_TCP_Client\\TCP_Echo_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{66927E0B-D02B-4096-9CAE-EEF540B5BAE2}|test_TCP_Client\\test_TCP_Client.vcxproj|C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\UDPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66927E0B-D02B-4096-9CAE-EEF540B5BAE2}|test_TCP_Client\\test_TCP_Client.vcxproj|solutionrelative:test_TCP_Client\\UDPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B22A3282-0775-4AF3-88F0-4E9056EB65EF}|test_TCP_Server\\test_TCP_Server.vcxproj|C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\TCP_Echo_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B22A3282-0775-4AF3-88F0-4E9056EB65EF}|test_TCP_Server\\test_TCP_Server.vcxproj|solutionrelative:test_TCP_Server\\TCP_Echo_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B22A3282-0775-4AF3-88F0-4E9056EB65EF}|test_TCP_Server\\test_TCP_Server.vcxproj|C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\UDPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B22A3282-0775-4AF3-88F0-4E9056EB65EF}|test_TCP_Server\\test_TCP_Server.vcxproj|solutionrelative:test_TCP_Server\\UDPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B22A3282-0775-4AF3-88F0-4E9056EB65EF}|test_TCP_Server\\test_TCP_Server.vcxproj|C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\TCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B22A3282-0775-4AF3-88F0-4E9056EB65EF}|test_TCP_Server\\test_TCP_Server.vcxproj|solutionrelative:test_TCP_Server\\TCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B22A3282-0775-4AF3-88F0-4E9056EB65EF}|test_TCP_Server\\test_TCP_Server.vcxproj|C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\TCP_Echo_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B22A3282-0775-4AF3-88F0-4E9056EB65EF}|test_TCP_Server\\test_TCP_Server.vcxproj|solutionrelative:test_TCP_Server\\TCP_Echo_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66927E0B-D02B-4096-9CAE-EEF540B5BAE2}|test_TCP_Client\\test_TCP_Client.vcxproj|C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCP_Echo_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66927E0B-D02B-4096-9CAE-EEF540B5BAE2}|test_TCP_Client\\test_TCP_Client.vcxproj|solutionrelative:test_TCP_Client\\TCP_Echo_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66927E0B-D02B-4096-9CAE-EEF540B5BAE2}|test_TCP_Client\\test_TCP_Client.vcxproj|C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{66927E0B-D02B-4096-9CAE-EEF540B5BAE2}|test_TCP_Client\\test_TCP_Client.vcxproj|solutionrelative:test_TCP_Client\\TCPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22A3282-0775-4AF3-88F0-4E9056EB65EF}|test_TCP_Server\\test_TCP_Server.vcxproj|C:\\USERS\\USER\\DESKTOP\\BOOST_1_88_0\\BOOST\\ASIO\\BASIC_SOCKET_ACCEPTOR.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,46 +37,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TCP_Echo_Server.cpp",
-              "DocumentMoniker": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\TCP_Echo_Server.cpp",
-              "RelativeDocumentMoniker": "test_TCP_Server\\TCP_Echo_Server.cpp",
-              "ToolTip": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\TCP_Echo_Server.cpp",
-              "RelativeToolTip": "test_TCP_Server\\TCP_Echo_Server.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwCQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UDPClient.cpp",
+              "DocumentMoniker": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\UDPClient.cpp",
+              "RelativeDocumentMoniker": "test_TCP_Client\\UDPClient.cpp",
+              "ToolTip": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\UDPClient.cpp",
+              "RelativeToolTip": "test_TCP_Client\\UDPClient.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-17T14:06:05.088Z",
+              "WhenOpened": "2025-07-19T05:51:45.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TCP_Echo_Client.cpp",
-              "DocumentMoniker": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCP_Echo_Client.cpp",
-              "RelativeDocumentMoniker": "test_TCP_Client\\TCP_Echo_Client.cpp",
-              "ToolTip": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCP_Echo_Client.cpp",
-              "RelativeToolTip": "test_TCP_Client\\TCP_Echo_Client.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UDPServer.cpp",
+              "DocumentMoniker": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\UDPServer.cpp",
+              "RelativeDocumentMoniker": "test_TCP_Server\\UDPServer.cpp",
+              "ToolTip": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\UDPServer.cpp",
+              "RelativeToolTip": "test_TCP_Server\\UDPServer.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-17T14:02:42.494Z",
+              "WhenOpened": "2025-07-19T05:06:49.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TCPClient.cpp",
-              "DocumentMoniker": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCPClient.cpp",
-              "RelativeDocumentMoniker": "test_TCP_Client\\TCPClient.cpp",
-              "ToolTip": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCPClient.cpp",
-              "RelativeToolTip": "test_TCP_Client\\TCPClient.cpp",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA4AAAAhAAAAAAAAAA==",
+              "Title": "TCP_Echo_Server.cpp",
+              "DocumentMoniker": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\TCP_Echo_Server.cpp",
+              "RelativeDocumentMoniker": "test_TCP_Server\\TCP_Echo_Server.cpp",
+              "ToolTip": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\TCP_Echo_Server.cpp",
+              "RelativeToolTip": "test_TCP_Server\\TCP_Echo_Server.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-17T13:24:19.25Z",
+              "WhenOpened": "2025-07-18T13:46:28.371Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "basic_socket_acceptor.hpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\boost_1_88_0\\boost\\asio\\basic_socket_acceptor.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\USER\\Desktop\\boost_1_88_0\\boost\\asio\\basic_socket_acceptor.hpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\boost_1_88_0\\boost\\asio\\basic_socket_acceptor.hpp",
+              "RelativeToolTip": "..\\..\\..\\Users\\USER\\Desktop\\boost_1_88_0\\boost\\asio\\basic_socket_acceptor.hpp",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAMwLcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-18T12:53:02.123Z"
             },
             {
               "$type": "Document",
@@ -75,10 +98,34 @@
               "RelativeDocumentMoniker": "test_TCP_Server\\TCPServer.cpp",
               "ToolTip": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Server\\TCPServer.cpp",
               "RelativeToolTip": "test_TCP_Server\\TCPServer.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-17T13:05:49.319Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TCP_Echo_Client.cpp",
+              "DocumentMoniker": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCP_Echo_Client.cpp",
+              "RelativeDocumentMoniker": "test_TCP_Client\\TCP_Echo_Client.cpp",
+              "ToolTip": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCP_Echo_Client.cpp",
+              "RelativeToolTip": "test_TCP_Client\\TCP_Echo_Client.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-18T13:46:36.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TCPClient.cpp",
+              "DocumentMoniker": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCPClient.cpp",
+              "RelativeDocumentMoniker": "test_TCP_Client\\TCPClient.cpp",
+              "ToolTip": "C:\\JoonETC\\SocketProgramming\\SocketProgramming\\test_TCP_Client\\TCPClient.cpp",
+              "RelativeToolTip": "test_TCP_Client\\TCPClient.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-17T13:24:19.25Z"
             }
           ]
         }

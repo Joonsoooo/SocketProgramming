@@ -19,14 +19,14 @@ int main()
             tcp::socket socket(io_context);
             acceptor.accept(socket);
 
-            std::string message = "Hello from server!\n";
+            std::string message = "서버에서 보낸 메시지입니다! \n";
             boost::system::error_code ignored_error;
             boost::asio::write(socket, boost::asio::buffer(message), ignored_error);
         }
     }
     catch (std::exception& e)
     {
-        std::cerr << "Exception : " << e.what() << std::endl;
+        std::cerr << "예외 발생 : " << e.what() << std::endl;
     }
 
     return 0;
